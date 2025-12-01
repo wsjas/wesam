@@ -1,0 +1,9 @@
+{
+  "name": "WESAM PWA",
+  "short_name": "WESAM",
+  "start_url": "./WESAM.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3498db",
+  "icons": []
+}
